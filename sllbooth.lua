@@ -30,10 +30,10 @@ getgenv().Settings = {
         Active = true,
         Items = {
             --// Example Settings, everything is editable.
-            ["All Rarity: Superior"] = {Class = "Pet", Price = "-3%"},
-            ["All Rarity: Divine"] = {Class = "Pet", Price = "-3%"},
-            ["All Rarity: Exotic"] = {Class = "Pet", Price = "-3%"},
-            ["All Rarity: Mythical"] = {Class = "Pet", Price = "-3%"},
+            ["All Rarity: Superior"] = {Class = "Pet", Price = "-5%"},
+            ["All Rarity: Divine"] = {Class = "Pet", Price = "-5%"},
+            ["All Rarity: Exotic"] = {Class = "Pet", Price = "-5%"},
+            ["All Rarity: Mythical"] = {Class = "Pet", Price = "-5%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
